@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm a 22-year-old student at [42 School](https://w
 ---
 
 ### 🚀 About Me
-
+- 📚 **Before programming**: I have a degree in International Relations from the University of Minho and spent a semester on an exchange in Budapest, Hungary.
 - 🌱 **Currently Learning**: Programming has become my passion, and I’m excited to explore where it can take me professionally.
 - 🛠 **Completed Projects**:
   - **Libft**: My custom C library recreating essential standard library functions.
