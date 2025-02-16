@@ -1,39 +1,40 @@
-# 👋 Hello there, I'm Gabriela!
-
-Welcome to my GitHub profile! I'm a 22-year-old student at [42 School](https://www.42porto.com/) in Porto, Portugal, where I’m diving deep into the world of programming. At 42, we primarily work with **C** and **C++**, and I’m thrilled to be learning and growing in this field.
-
----
-
-### 🚀 About Me
-- 📚 **Before programming**: I have a degree in International Relations from the University of Minho and spent a semester on an exchange in Budapest, Hungary.
-- 🌱 **Currently Learning**: Programming has become my passion, and I’m excited to explore where it can take me professionally.
-- 🛠 **Completed Projects**:
-  - **Libft**: My custom C library recreating essential standard library functions.
-  - **Printf**: A project that dives into understanding and implementing formatted output functions.
-- 🔍 **Exploring Interests**: I’m still discovering my path and experimenting with different areas like:
-  - Automotive Systems
-  - Game Development
-  - Cybersecurity
-  - Machine Learning
+# 👋 Hello, world! I'm Gabriela.  
+💻 Aspiring Cybersecurity & C Programming Enthusiast | 📍 Portugal  
 
 ---
 
-### 🧰 Tech Stack
+## 🧑‍🎓 About Me  
+- 🎓 Bachelor's degree in **International Relations**  
+- 🔍 Discovered my passion for **technology & programming** through studying cybersecurity in university 
+- 🏫 Currently a student at **42 Porto** (Common Core)  
+---
 
-- **Languages**: C, C++
-- **Tools**: Makefile, GCC, Git
-- **Learning Next**: Python, Bash scripting
+## 🛠️ Tech & Tools  
+![C](https://img.shields.io/badge/Language-C-blue?style=for-the-badge&logo=c&logoColor=white)  
+![Vim](https://img.shields.io/badge/Editor-Vim-green?style=for-the-badge&logo=vim&logoColor=white)  
+![VS Code](https://img.shields.io/badge/Editor-VS%20Code-blue?style=for-the-badge&logo=visualstudiocode&logoColor=white)  
+![GDB](https://img.shields.io/badge/Debugger-GDB-red?style=for-the-badge&logo=gnu&logoColor=white)  
+![Git](https://img.shields.io/badge/Tool-Git-orange?style=for-the-badge&logo=git&logoColor=white)  
+![VirtualBox](https://img.shields.io/badge/VM-VirtualBox-lightgrey?style=for-the-badge&logo=virtualbox&logoColor=white)  
 
 ---
 
-### 🌟 My Motivation
-Programming has given me a sense of purpose and excitement that I’ve been searching for. I’m passionate about learning new concepts, solving complex problems, and creating impactful solutions. Studying at 42 gave me a community where every day is an opportunity to grow alongside my peers and explore something new! :)))))
+## 🚀 42 School Projects  
+- ✅ **[libft](https://github.com/gongabriela/Libft)** – Custom implementation of standard C library functions  
+- ✅ **[ft_printf](https://github.com/gongabriela/ft_printf)** – Recreation of the printf function  
+- ✅ **[get_next_line](https://github.com/gongabriela/get_next_line)** – Efficient file reading in C  
+- ✅ **[born2beroot]** – Virtual machine setup and system hardening  
 
 ---
 
-### 📫 Let’s Connect!
-- **Email**: [gabriela.oliveira1031@gmail.com](mailto:gabriela.oliveira1031@gmail.com)
-- **42 slack user**: ggoncalv
+## 📊 GitHub Stats  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gongabriela&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gongabriela&layout=compact&theme=tokyonight)  
 
-Feel free to check out my repositories to see what I’m working on or reach out if you want to collaborate!
+---
+
+## 📫 Let's Connect!  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriela-oliveira-94a216269/)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabriela_oliveira1031@gmail.com)  
+
 
