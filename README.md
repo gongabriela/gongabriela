@@ -1,5 +1,5 @@
 # Hello, world! I'm Gabriela.  
-💻 Aspiring Cybersecurity & C Programming Enthusiast | 📍 Portugal  
+Aspiring Cybersecurity & C Programming Enthusiast | 📍 Portugal  
 
 ---
 
