@@ -23,10 +23,11 @@ Aspiring Cybersecurity & C Programming Enthusiast | 📍 Portugal
 - ✅ **[libft](https://github.com/gongabriela/Libft)** – Custom implementation of standard C library functions  
 - ✅ **[ft_printf](https://github.com/gongabriela/ft_printf)** – Recreation of the printf function  
 - ✅ **[get_next_line](https://github.com/gongabriela/get_next_line)** – Efficient file reading in C  
-- ✅ **[born2beroot]** – Virtual machine setup and system hardening
+- ✅ **[born2beroot](https://github.com/gongabriela/Born2beRoot)** – Virtual machine setup and system hardening
 - ✅ **[push_swap](https://github.com/gongabriela/push_swap)** – Sorting algorithm using limited stack operations and optimal moves
 - ✅ **[pipex](https://github.com/gongabriela/pipex)** – Recreating shell-like piping and redirection between commands
 - ✅ **[so_long](https://github.com/gongabriela/so_long)** – Simple 2D game using a tile-based map, pathfinding, and graphical rendering
+- ✅ **[philosophers](https://github.com/gongabriela/philosophers)** – Multi-threaded simulation of the dining philosophers problem
 
 ---
 
