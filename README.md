@@ -1,5 +1,5 @@
 # Hello, world! I'm Gabriela.  
-Aspiring Cybersecurity & C Programming Enthusiast | 📍 Portugal  
+C Programming Enthusiast | 📍 Portugal  
 
 ---
 
@@ -27,7 +27,7 @@ Aspiring Cybersecurity & C Programming Enthusiast | 📍 Portugal
 - ✅ **[push_swap](https://github.com/gongabriela/push_swap)** – Sorting algorithm using limited stack operations and optimal moves
 - ✅ **[pipex](https://github.com/gongabriela/pipex)** – Recreating shell-like piping and redirection between commands
 - ✅ **[so_long](https://github.com/gongabriela/so_long)** – Simple 2D game using a tile-based map, pathfinding, and graphical rendering
-- ✅ **[philosophers](https://github.com/gongabriela/philosophers)** – Multi-threaded simulation of the dining philosophers problem
+- ✅ **[philosophers - ongoing](https://github.com/gongabriela/philosophers)** – Multi-threaded simulation of the dining philosophers problem
 
 ---
 
