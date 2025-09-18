@@ -27,7 +27,8 @@ C Programming Enthusiast | 📍 Portugal
 - ✅ **[push_swap](https://github.com/gongabriela/push_swap)** – Sorting algorithm using limited stack operations and optimal moves
 - ✅ **[pipex](https://github.com/gongabriela/pipex)** – Recreating shell-like piping and redirection between commands
 - ✅ **[so_long](https://github.com/gongabriela/so_long)** – Simple 2D game using a tile-based map, pathfinding, and graphical rendering
-- ✅ **[philosophers - ongoing](https://github.com/gongabriela/philosophers)** – Multi-threaded simulation of the dining philosophers problem
+- ✅ **[philosophers](https://github.com/gongabriela/philosophers)** – Multi-threaded simulation of the dining philosophers problem
+- ✅ **[minishell](https://github.com/gongabriela/minishell)** – A small shell implementation in C.
 
 ---
 
