@@ -29,7 +29,7 @@ C Programming Enthusiast | 📍 Portugal
 - ✅ **[so_long](https://github.com/gongabriela/so_long)** – Simple 2D game using a tile-based map, pathfinding, and graphical rendering
 - ✅ **[philosophers](https://github.com/gongabriela/philosophers)** – Multi-threaded simulation of the dining philosophers problem
 - ✅ **[minishell](https://github.com/gongabriela/minishell)** – A small shell implementation in C.
-- ✅ **[cub3d](github.com/gongabriela/cub3d)** – A raycasting engine.
+- ✅ **[cub3d](https://github.com/gongabriela/cub3d)** – A raycasting engine.
 - ✅ **[NetPractice] - (ongoing)
 
 ---
