@@ -30,7 +30,8 @@ C Programming Enthusiast | 📍 Portugal
 - ✅ **[philosophers](https://github.com/gongabriela/philosophers)** – Multi-threaded simulation of the dining philosophers problem
 - ✅ **[minishell](https://github.com/gongabriela/minishell)** – A small shell implementation in C.
 - ✅ **[cub3d](https://github.com/gongabriela/cub3d)** – A raycasting engine.
-- ✅ **[NetPractice] - (ongoing)
+- ✅ **[NetPractice](https://github.com/gongabriela/NetPractice)** - Solving TCP/IP subnetting and routing puzzles.
+- ✅ **[CPPs 00-09]()** - ongoing 
 
 ---
 
