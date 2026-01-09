@@ -36,7 +36,7 @@ C Programming Enthusiast | 📍 Portugal
 ---
 
 ## GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gongabriela&show_icons=true&theme=tokyonight)  
+[![Gabriela's GitHub stats](https://github-readme-stats.vercel.app/api?username=gongabriela)](https://github.com/gongabriela/github-readme-stats)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gongabriela&layout=compact&theme=tokyonight)  
 
 ---
