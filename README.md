@@ -38,7 +38,7 @@ Programming Enthusiast | 📍 Portugal
 ---
 
 ## GitHub Stats  
-[![Gabriela's GitHub stats](https://github-readme-stats.vercel.app/api?username=gongabriela)](https://github.com/gongabriela/github-readme-stats)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/gongabriela?cardType=level&theme=tokyonight&fontFamily=&preferLogin=false)](https://git.io/awesome-stats-card)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gongabriela&layout=compact&theme=tokyonight)  
 
 ---
