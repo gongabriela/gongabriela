@@ -32,11 +32,11 @@ Programming Enthusiast | 📍 Portugal
 ---
 
 ## UPskill Service Now Projects 
-✅ **[gestaoDeSeguros](https://github.com/gongabriela/gestaoDeSeguros)** – A insurance management system built with Node.js, featuring MVC architecture, JSON persistence, and automated business logic for policy life cycles.  
-✅ **[BD_GestaoDeSeguros](https://github.com/gongabriela/BD_GestaoDeSeguros)**  – A robust SQL Server database for insurance mediation, featuring historical auditing, T-SQL automation, and strict financial data integrity rules.
-✅ **[personal portfolio](https://github.com/gongabriela/personal_portfolio)**  – A Cyberpunk-inspired portfolio website crafted with raw CSS and HTML, featuring interactive animations and a custom-built responsive layout.
-✅ **[to-do list](https://github.com/gongabriela/to-do-list)**  – A minimalist and interactive To-Do List app built from scratch using pure JavaScript and custom CSS animations.
-✅ **[finantial dashbboard](https://github.com/gongabriela/dashboardFinanceiro)**  – A mobile-first financial overview app developed with vanilla JavaScript and modern CSS layout techniques.
+- ✅ **[gestaoDeSeguros](https://github.com/gongabriela/gestaoDeSeguros)** – A insurance management system built with Node.js, featuring MVC architecture, JSON persistence, and automated business logic for policy life cycles.  
+- ✅ **[BD_GestaoDeSeguros](https://github.com/gongabriela/BD_GestaoDeSeguros)**  – A robust SQL Server database for insurance mediation, featuring historical auditing, T-SQL automation, and strict financial data integrity rules.
+- ✅ **[personal portfolio](https://github.com/gongabriela/personal_portfolio)**  – A Cyberpunk-inspired portfolio website crafted with raw CSS and HTML, featuring interactive animations and a custom-built responsive layout.
+- ✅ **[to-do list](https://github.com/gongabriela/to-do-list)**  – A minimalist and interactive To-Do List app built from scratch using pure JavaScript and custom CSS animations.
+- ✅ **[financial dashboard](https://github.com/gongabriela/dashboardFinanceiro)**  – A mobile-first financial overview app developed with vanilla JavaScript and modern CSS layout techniques.
 
 ---
 
