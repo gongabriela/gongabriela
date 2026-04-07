@@ -37,7 +37,8 @@ Programming Enthusiast | 📍 Portugal
 - ✅ **[personal portfolio](https://github.com/gongabriela/personal_portfolio)**  – A Cyberpunk-inspired portfolio website crafted with raw CSS and HTML, featuring interactive animations and a custom-built responsive layout.
 - ✅ **[to-do list](https://github.com/gongabriela/to-do-list)**  – A minimalist and interactive To-Do List app built from scratch using pure JavaScript and custom CSS animations.
 - ✅ **[financial dashboard](https://github.com/gongabriela/dashboardFinanceiro)**  – A mobile-first financial overview app developed with vanilla JavaScript and modern CSS layout techniques.
-
+- ✅ **[TaskWave](https://github.com/gongabriela/GestorDeTarefas)** - A web-based Kanban and To-Do application built with Angular, featuring a complete CI/CD pipeline and BaaS authentication.
+- ✅ **[IntegraBridge](https://github.com/gongabriela/IntegraBridge)**  – A web platform that connects immigrants and refugees with local volunteers to streamline essential bureaucratic processes through location and skill-based matchmaking.
 ---
 
 ## GitHub Stats  
