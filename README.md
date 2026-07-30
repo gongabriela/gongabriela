@@ -4,10 +4,11 @@ Programming Enthusiast | 📍 Portugal
 ---
 
 ## About Me  
-- Bachelor's degree in **International Relations**  
-- Discovered my passion for **technology & programming** through studying cybersecurity in university 
-- Student at **42 Porto** (Common Core)
-- Student at a Service Now course program
+- ServiceNow Developer
+- Student at **42 Porto** (Rank 05 - Common Core), where I learn software engineering core concepts
+- Participated in the Upskill program, where I learned servicenow and other web development tech stack
+- I have a bachelor's degree in **International Relations**, and discovered my passion for **technology & programming** through studying cybersecurity in university 
+
 ---
 
 ## Tech Stack & Tools
@@ -45,7 +46,7 @@ Programming Enthusiast | 📍 Portugal
 
 ---
 
-## UPskill Service Now Projects 
+## UPskill Projects 
 - ✅ **[gestaoDeSeguros](https://github.com/gongabriela/gestaoDeSeguros)** – A insurance management system built with Node.js, featuring MVC architecture, JSON persistence, and automated business logic for policy life cycles.  
 - ✅ **[BD_GestaoDeSeguros](https://github.com/gongabriela/BD_GestaoDeSeguros)**  – A robust SQL Server database for insurance mediation, featuring historical auditing, T-SQL automation, and strict financial data integrity rules.
 - ✅ **[personal portfolio](https://github.com/gongabriela/personal_portfolio)**  – A Cyberpunk-inspired portfolio website crafted with raw CSS and HTML, featuring interactive animations and a custom-built responsive layout.
@@ -57,7 +58,7 @@ Programming Enthusiast | 📍 Portugal
 
 ## GitHub Stats  
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/gongabriela?cardType=level&theme=tokyonight&fontFamily=&preferLogin=false)](https://git.io/awesome-stats-card)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gongabriela&layout=compact&theme=tokyonight)  
+![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=gongabriela&layout=compact&theme=tokyonight)  
 
 ---
 
